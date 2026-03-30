@@ -1,30 +1,30 @@
+# 🎯 C# Programming & Logic
+### Backend Development & Data Processing Fundamentals
 
-# 📊 SQL Practice
-### Repository for Data Engineering Fundamentals
-
-This repository contains a collection of SQL scripts and exercises developed during my studies at **ETECVAV (Vasco Antônio Venchiarutti)**. The focus is on mastering DDL, DML, and complex queries to build a strong foundation for **Data Engineering**.
+This repository contains a collection of C# exercises and projects developed during my studies at **ETECVAV (Vasco Antônio Venchiarutti)**. The goal is to master strongly-typed programming, object-oriented principles, and efficient data handling to support a future career in **Data Engineering**.
 
 ---
 
 ## 🚀 Overview
 
-The exercises cover various database engine standards (PostgreSQL/MySQL/SQL Server) and focus on:
-* **Basic Queries:** SELECT, WHERE, LIKE, and Ordering.
-* **Joins:** INNER, LEFT, RIGHT, and FULL JOINs.
-* **Aggregations:** GROUP BY, HAVING, and Aggregate Functions (SUM, AVG, COUNT).
-* **Data Modeling:** Creating tables, constraints, and relationships.
+The exercises cover fundamental to advanced C# concepts, focusing on:
+* **Object-Oriented Programming (OOP):** Classes, Inheritance, Polymorphism, and Encapsulation.
+* **Data Structures:** Working with Lists, Dictionaries, and Arrays.
+* **LINQ (Language Integrated Query):** Filtering and transforming data collections efficiently.
+* **File I/O:** Reading and writing data (CSV, JSON, TXT).
+* **Database Integration:** Connecting C# applications to SQL Server using ADO.NET or Entity Framework.
 
 ## 🛠️ Tech Stack
 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> 
-<img src="https://img.shields.io/badge/sqlserver-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-<img src="https://img.shields.io/badge/database-engineering-orange?style=for-the-badge" alt="Data Engineering" />
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+<img src="https://img.shields.io/badge/backend-logic-blue?style=for-the-badge" alt="Backend" />
 
-## ✍️ Author
+## ✍️ Authors
 
 **Igor Fernandes & Igor Daniel Eustachio**
 * Students at **Escola Técnica Vasco Antônio Venchiarutti**.
-* Aspiring **Data Engineer** passionate about data architecture and automation.
 
 ---
 
